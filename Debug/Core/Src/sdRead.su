@@ -1,0 +1,4 @@
+../Core/Src/sdRead.c:14:6:setSpiMode	24	static
+../Core/Src/sdRead.c:36:6:CS_Select	8	static
+../Core/Src/sdRead.c:40:6:CS_UnSelect	8	static
+../Core/Src/sdRead.c:44:6:sendCommand	40	static
